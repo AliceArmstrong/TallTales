@@ -32,7 +32,7 @@ if (Meteor.isServer) {
 
     describe('/', function() {
       it('should be Hello Mocha!', function(done) {
-        http.get('http://127.0.0.1:3000', function(response) {
+        http.get('http://localhost:3000', function(response) {
           assert.equal(response.statusCode, 200);
 
           var body = '';
