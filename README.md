@@ -1,12 +1,7 @@
 # TallTales
 
-A JavaScript-based collaborative story game.
+First draft of a JavaScript-based collaborative story game. After a day and a half of experimenting with Meteor, we decided to go in a different direction and start again using different technologies to better accommodate TDD.
 
-Technologies used:
-  * nodeJS
-  * Meteor
-  * Mocha
-  * Velocity
-  * Trello
+Collaborators: @nryn, @AliceArmstrong, @allthatilk, @ClemCB
 
-User stories: https://trello.com/b/X8Zp4x5L/tall-tales
+Final draft here: https://github.com/nryn/TallTalesTheThird
